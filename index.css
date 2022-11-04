@@ -1,0 +1,42 @@
+*{margin:0; padding:0}
+
+.container_box1{
+   background-image: url('assets/orange-bg-1.jpg');
+   background-size: contain;
+   padding:1vw;
+}
+.navbar{
+    border: white 1px solid;
+}
+
+.container_box2{
+    padding-bottom: 0%;
+}
+
+.slider1{
+    margin-bottom: 4vw;
+    border:white 4px solid;
+    border-radius: 4px;
+}
+
+.container_head{
+    margin-top: 5%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    align-content: center;
+}
+.title{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+}
+.line{
+    width: 9vw;
+    background-color:orange;
+    height: 0.5vw;
+}
